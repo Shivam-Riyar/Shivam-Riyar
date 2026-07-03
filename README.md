@@ -1,5 +1,15 @@
-## Hi there 👋
+### Hi, I'm Shivam 👋
 
+**Product Security Engineer** — I work where offensive testing meets the tooling that makes findings get fixed.
+
+Right now I'm building internal security platforms that turn scattered scanner output into one prioritized, owned, and tracked queue. Before that: penetration testing, vulnerability assessments, and an M.Sc. with research into adversarial machine learning.
+
+- 🔭 Focus: vulnerability management, web & API security, security tooling
+- 🛠️ Work in: Python, JavaScript, FastAPI, React, and the usual offensive toolkit (Burp, ZAP, Nmap)
+- ✍️ I write up what I break at [shivamriyar.com](https://shivamriyar.com)
+- 📫 Reach me: shivamriyar123@gmail.com
+
+*Exploring security one byte at a time.*
 <!--
 **Shivam-Riyar/Shivam-Riyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
